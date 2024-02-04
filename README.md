@@ -23,7 +23,7 @@
 ## 👨🏽‍💻 About me
 Majoring in Industrial Engineering, specialized in Data Science and Artificial Intelligence at the <a href="https://www.enp.edu.dz/en/">National Polytechnic School of Algiers</a>, I am a technology lover who works on different data science/AI, video game and web projects!
 
-* I have conducted many (5) internships as of today, including one at [Ericsson](https://www.ericsson.com/en) and another -current- one at [Shlumberger](https://www.slb.com).
+* I have conducted many (5) internships as of today, including one at [Ericsson](https://www.ericsson.com/en) and another one at [Shlumberger](https://www.slb.com).
 * I am a casual freelancer.
 * Check out my <a href="https://www.somnef.tech">website</a> for more information!
 * You can contact me at: <a target="_blank" href="mailto:a.m.bousselat@gmail.com">a.m.bousselat@gmail.com</a>
