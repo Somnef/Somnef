@@ -21,7 +21,7 @@
 
 ---
 ## 👨🏽‍💻 About me
-I am an engineer specialized in Data Science and Artificial Intelligence with a Master's degree from the <a href="https://www.enp.edu.dz/en/">Polytechnic School of Algiers</a>, currently undertaking a second Master's degree in **Green Networking and Cloud Computing** through an** Erasmus Mundus** program where I study in France, UK and Sweden!
+I am an engineer specialized in Data Science and Artificial Intelligence with a Master's degree from the <a href="https://www.enp.edu.dz/en/">Polytechnic School of Algiers</a>, currently undertaking a second Master's degree in **Green Networking and Cloud Computing** through an **Erasmus Mundus** program where I study in France, UK and Sweden!
 I am a technology lover who works on different Data Science/AI, video game and web projects!
 
 * I have conducted many (5) internships as of today, including one at [Ericsson](https://www.ericsson.com/en) and another one at [Shlumberger](https://www.slb.com).
