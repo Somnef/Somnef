@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="me.png" width="100"/>
-  <p>🔥🖥️<i><b> Ridin' the code </b></i>🖥️🔥</p>
+  <p>🔥🖥️<i><b> I'LL BUILD STUFF FOREVER </b></i>🖥️🔥</p>
 </div>
 
 <div id="badges" align="center">
